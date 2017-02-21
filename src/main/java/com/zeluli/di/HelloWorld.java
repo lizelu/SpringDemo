@@ -1,4 +1,4 @@
-package com.zeluli.first;
+package com.zeluli.di;
 
 public class HelloWorld {
 	public void sayHello() {

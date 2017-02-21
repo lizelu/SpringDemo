@@ -1,4 +1,4 @@
-package com.zeluli.first;
+package com.zeluli.di;
 import org.springframework.stereotype.Service;
 
 @Service	//指名该类是Spring管理的一个

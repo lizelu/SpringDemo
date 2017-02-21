@@ -1,4 +1,4 @@
-package com.zeluli.first;
+package com.zeluli.di;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

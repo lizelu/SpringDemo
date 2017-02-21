@@ -1,5 +1,5 @@
-package com.zeluli.first;
-import com.zeluli.first.HelloWorld;
+package com.zeluli.di;
+import com.zeluli.di.HelloWorld;
 
 public class HelloWorldService {
 	HelloWorld helloWorld;
